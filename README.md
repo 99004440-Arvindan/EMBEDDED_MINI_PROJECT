@@ -1,2 +1,2 @@
-# EMBEDDED_MINI_PROJECT
+# MINI_PROJECT
 ## C++ Supermarket Project
