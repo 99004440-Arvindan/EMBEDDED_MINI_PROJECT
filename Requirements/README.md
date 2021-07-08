@@ -7,6 +7,19 @@
    Milk products including yogurt and cheese,Beverages,information about other milk products and includes Product packages.
 4. The goal of this phase is to develop the internal logic of each of the modules identified during the system design.
 
+## Features
+The various features of the system are:
+1. Basic details of the store/products.
+2. Milk products
+    -Yogurt
+    -Cheese
+3. Agricultural products
+    -Fruit
+    -Vegetable
+4. Other Milk products
+5. Product Packaging
+6. Shop details
+
 ## 4'Ws & 1'H
 ### WHO:
 Shopkeeper who want to organize products in his/her supermarket. Customer who wants to buy products quickly.
