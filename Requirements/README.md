@@ -36,7 +36,7 @@ When shopkeeper wants to make products available to customers without any delay.
 Can be used where products status in the supermarket/store changes frequently.
 
 ### HOW:
-Supermarket management system provides multiple options to the shopkeeper such as store name,product price, number of each products, product's category and shelf number. Based on these details customer/shopkeeper can find product of particular category accurately.
+Supermarket management system provides multiple options to the shopkeeper such as add new product, view all products or specific product,modify any product,delete any product. Based on these details customer/shopkeeper can find product details accurately.
 
 ## SWOT ANALYSIS
 
