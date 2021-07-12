@@ -3,22 +3,24 @@
 ## Introduction
 1. The objective of the “Supermarket Management System “is to produce  the monitoring the supermarket. 
 2. The project SupermarketManagement System is developed with the objective of making the system reliable,easier, fast, and more informative
-3. Different features included in our project are Agricultural products which includes the fruits and vegetables,the basic details of the supermarket,details of the shop,
-   Milk products including yogurt and cheese,Beverages,information about other milk products and includes Product packages.
+3. The admin can create a product,display all the products, display all the price list, Modify any product and can also delete any product.
+4. The user can place the order of their interest with all the available products in the market.
 4. The goal of this phase is to develop the internal logic of each of the modules identified during the system design.
 
 ## Features
 The various features of the system are:
-1. Basic details of the store/products.
-2. Milk products
-    -Yogurt
-    -Cheese
-3. Agricultural products
-    -Fruit
-    -Vegetable
-4. Other Milk products
-5. Product Packaging
-6. Shop details
+1. Easy to use
+2. The user is allowed to
+   -Create a product
+   -Show a particular product
+   -Display all the products
+   -Display all the price list
+   -Modify any product
+   -Delete any product
+3. End-to-end encrypted
+4. Accessible from anywhere
+5. Reduces time taken
+6. Customer feedback is taken
 
 ## 4'Ws & 1'H
 ### WHO:
