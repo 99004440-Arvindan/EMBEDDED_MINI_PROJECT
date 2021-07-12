@@ -38,4 +38,4 @@ Supermarket management system provides multiple options to the shopkeeper such a
 
 ## SWOT ANALYSIS
 
-![Untitled Workspace (2)]()
+![SWOT ANALYSIS](https://github.com/99004440-Arvindan/EMBEDDED_MINI_PROJECT/blob/main/Requirements/SWOT.PNG)
