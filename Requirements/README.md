@@ -41,3 +41,34 @@ Supermarket management system provides multiple options to the shopkeeper such a
 ## SWOT ANALYSIS
 
 ![SWOT ANALYSIS](https://github.com/99004440-Arvindan/EMBEDDED_MINI_PROJECT/blob/main/Requirements/SWOT.PNG)
+
+## High Level Requirements
+
+|      ID          |Description                          |Status                         |
+|----------------|-------------------------------|-----------------------------|
+|H1|User class with required features    |Implemented            |
+|H2|Customer class with required features   |Implemented|
+|H3|File handling of User login details  |Implemented|
+|H4| Product class with required features inherits from User class| Implemented|
+|H5|Transactions/Billing using class Bill whih inherits from Customer and Product class|Implemented|
+|H6| Display of the menu and working of all the features                 |Implemented|
+
+## Low Level Requirements
+
+|      ID          |Description                          |Status                         |
+|----------------|-------------------------------|-----------------------------|
+|H1_L1|  User has own username and password maintained in the .txt file     |Implemented            |
+|H1_L2| Adding User function in User class           |Implemented|
+|H1_L3|  Verifying User function in User class           |Implemented|
+|H2_L1|  Reading the customer details Customer class           |Implemented            |
+|H2_L2| Displaying Customer details function in Customer class                  |Implemented|
+|H3_L1|  Maintain the user.txt file     |Implemented            |
+|H4_L1| Creating Product function in Product class        |Implemented|
+|H4_L2|  Showing the Product function in Product class|Implemented|
+|H4_L3|  Displaying all Product details function in Product class          |Implemented            |
+|H4_L4| Displayind specific Product details function in Product class            |Implemented|
+|H4_L5|  Price list of Product function in Product class     |Implemented            |
+|H4_L6| Modify Product function in Product class           |Implemented|
+|H4_L7| Admin menu function in Product class           |Implemented|
+|H4_L8|  Deleting Product function in Product class|Implemented            |
+|H5_L1| Placing order function in class Bill                |Implemented|
