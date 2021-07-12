@@ -36,3 +36,6 @@ Can be used where products status in the supermarket/store changes frequently.
 ### HOW:
 Supermarket management system provides multiple options to the shopkeeper such as store name,product price, number of each products, product's category and shelf number. Based on these details customer/shopkeeper can find product of particular category accurately.
 
+## SWOT ANALYSIS
+
+![Untitled Workspace (2)]()
