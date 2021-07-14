@@ -50,7 +50,7 @@ Supermarket management system provides multiple options to the shopkeeper such a
 |H2|Customer class with required features   |Implemented|
 |H3|File handling of User login details  |Implemented|
 |H4| Product class with required features inherits from User class| Implemented|
-|H5|Transactions/Billing using class Bill whih inherits from Customer and Product class|Implemented|
+|H5|Transactions/Billing using class Bill which inherits from Customer and Product class|Implemented|
 |H6| Display of the menu and working of all the features                 |Implemented|
 
 ## Low Level Requirements
@@ -66,7 +66,7 @@ Supermarket management system provides multiple options to the shopkeeper such a
 |H4_L1| Creating Product function in Product class        |Implemented|
 |H4_L2|  Showing the Product function in Product class|Implemented|
 |H4_L3|  Displaying all Product details function in Product class          |Implemented            |
-|H4_L4| Displayind specific Product details function in Product class            |Implemented|
+|H4_L4| Displaying specific Product details function in Product class            |Implemented|
 |H4_L5|  Price list of Product function in Product class     |Implemented            |
 |H4_L6| Modify Product function in Product class           |Implemented|
 |H4_L7| Admin menu function in Product class           |Implemented|
