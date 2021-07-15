@@ -1,4 +1,7 @@
 # MINI_PROJECT - Supermarket management system using C++
+|Code Quality|
+|:--:|
+|![Code Quality - Static Code - Cppcheck](https://github.com/99004440-Arvindan/EMBEDDED_MINI_PROJECT/actions/workflows/Cppcheck.yml/badge.svg)|
 ## Contributors List and Summary
 |**PS Number**|**Name**|**Contribution**|
 |:--:|:--:|:--:|
