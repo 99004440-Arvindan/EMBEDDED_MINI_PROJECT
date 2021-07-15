@@ -1,4 +1,4 @@
-# MINI_PROJECT - Supermarket management system uSing C++
+# MINI_PROJECT - Supermarket management system using C++
 ## Contributors List and Summary
 |**PS Number**|**Name**|**Contribution**|
 |:--:|:--:|:--:|
@@ -8,5 +8,5 @@
 |99004443	|Shravya K N|Worked on Product class, UML Diagrams, High and Low level Requirements, Test Plan, Report|
 
 ## CHALLENGES FACED AND HOW WERE THEY OVERCOME
-•	Had problem in saving the information in .dat and .txt file format. Used reinterpret_cast to solve the issue.
-•	Dealing with the billing for each user. Used inheritance from both product and user to resolve.
+1. Had problem in saving the information in .dat and .txt file format. Used reinterpret_cast to solve the issue.
+2. Dealing with the billing for each user. Used inheritance from both product and user to resolve.
