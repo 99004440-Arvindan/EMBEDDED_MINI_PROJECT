@@ -1,3 +1,5 @@
+## Low Level Class Diagram for Login/Registeration
+![Class Diagram]()
 ## Low Level System Diagram for Product
 ![Composite Diagram](https://user-images.githubusercontent.com/66370715/125734400-7b98a7db-5b4f-4f7e-952c-8f35f125d119.png)
 
