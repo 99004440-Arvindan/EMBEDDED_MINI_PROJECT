@@ -17,12 +17,12 @@
 |  L_03       |Deleting product available in .dat file|product id|Delete product from .dat file|Passed|Requirement based    |
 |  L_04       |Display of admin menu for various functions|option in integer format |Going to corresponding function|Passed|Requirement Based    |
 |  L_05       |Modifying the poduct not availble in .dat file  |invalid product id|Printing "Record not found" |Passed|Scenario Based    |
-|  L_06       |Invalid choice for admin menu  |inavlid choice in integer format| Printing "Invalid Choice"|Passed|Boundary Based    |
+|  L_06       |Invalid choice for admin menu  |invalid choice in integer format| Printing "Invalid Choice"|Passed|Boundary Based    |
 |  L_07       |Deleting invalid product from .dat file  |invalid product id|Printing "Record not found" |Passed|Scenario Based    |
 |L_08|Creating new product|Valid product ID|Product is created|Passed|Requirement based|
-|L_09|Creating new product|Invalid product ID|Incorrect product ID|Passed|Scenario based|
+|L_09|Creating new product|Invalid product ID|Prints "Incorrect product ID"|Passed|Scenario based|
 |L_10|Displaying specific product|Valid product ID|Product is created|Passed|Requirement based|
-|L_11|Displaying specific product|Invalid product ID|Incorrect product ID|Passed|Scenario based|
+|L_11|Displaying specific product|Invalid product ID|Prints "Incorrect product ID"|Passed|Scenario based|
 
 
 
