@@ -1,7 +1,7 @@
 # TEST PLAN:
 ## For High-Level
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Status** |**Type Of Test**  |    
-|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|:-------------:|:--------------------------------------------------------------:|:------------:|:-------------:|:----------------:|:------------------:|
 |  H_01       |Maintaining the User Login credentials in .txt file |username and password  |.txt file has all user data  |Passed|Requirement Based|
 |  H_02       |Maintaining product details in .dat file  |product class input|.dat has all product details|Passed |Requirement Based    |
 |  H_03       |Printing the bill|User and Product class |generation of bill|Passed|Requirement Based    |
@@ -20,6 +20,10 @@
 |  L_06       |Invalid choice for admin menu  |inavlid choice in integer format| Printing "Invalid Choice"|Passed|Boundary Based    |
 |  L_07       |Deleting invalid product from .dat file  |invalid product id|Printing "Record not found" |Passed|Scenario Based    |
 |L_08|Creating new product|Valid product ID|Product is created|Passed|Requirement based|
+|L_09|Creating new product|Invalid product ID|Incorrect product ID|Passed|Scenario based|
+|L_10|Displaying specific product|Valid product ID|Product is created|Passed|Requirement based|
+|L_11|Displaying specific product|Invalid product ID|Incorrect product ID|Passed|Scenario based|
+
 
 
 
