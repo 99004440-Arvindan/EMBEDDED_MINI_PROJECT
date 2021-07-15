@@ -1,5 +1,5 @@
 ## High Level Sequence Behavioral diagram.
-![Sequence diagram]()
+![Sequence diagram](https://github.com/99004440-Arvindan/EMBEDDED_MINI_PROJECT/blob/main/_Architecture/behavioral%20diagrams/Highlevel_Sequence_diagram.png)
 
 ## Low Level Behavioral diagram for Billing
 
