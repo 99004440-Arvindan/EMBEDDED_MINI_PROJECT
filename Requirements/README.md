@@ -11,16 +11,15 @@
 The various features of the system are:
 1. Easy to use
 2. The user is allowed to
-   -Create a product
-   -Show a particular product
-   -Display all the products
-   -Display all the price list
-   -Modify any product
-   -Delete any product
+    -Create a product
+    -Show a particular product
+    -Display all the products
+    -Display all the price list
+    -Modify any product
+    -Delete any product
 3. End-to-end encrypted
 4. Accessible from anywhere
 5. Reduces time taken
-6. Customer feedback is taken
 
 ## 4'Ws & 1'H
 ### WHO:
