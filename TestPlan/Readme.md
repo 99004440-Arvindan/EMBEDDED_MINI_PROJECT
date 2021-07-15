@@ -11,14 +11,15 @@
 ## For Low-Level 
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
-|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|:-------------:|:--------------------------------------------------------------:|:------------:|:-------------:|:----------------:|:------------------:|
 |  L_01       |Displaying the price list | Choosing the price list option in admin menu|Display of price list|Passed|Requirement based |
 |  L_02       |Modifying the product available in .dat file|  product id |Printing "Record updated"| Passed|Requirement based    |
 |  L_03       |Deleting product available in .dat file|product id|Delete product from .dat file|Passed|Requirement based    |
 |  L_04       |Display of admin menu for various functions|option in integer format |Going to corresponding function|Passed|Requirement Based    |
 |  L_05       |Modifying the poduct not availble in .dat file  |invalid product id|Printing "Record not found" |Passed|Scenario Based    |
-|  L_06       |Inavlid choice for admin menu  |inavlid choice in integer format| Printing "Invalid Choice"|Passed|Boundary Based    |
+|  L_06       |Invalid choice for admin menu  |inavlid choice in integer format| Printing "Invalid Choice"|Passed|Boundary Based    |
 |  L_07       |Deleting invalid product from .dat file  |invalid product id|Printing "Record not found" |Passed|Scenario Based    |
+|L_08|Creating new product|Valid product ID|Product is created|Passed|Requirement based|
 
 
 
